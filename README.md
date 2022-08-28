@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sergo8
-- 👀 I’m interested in Python, Machine Learning
-- 🌱 I’m currently learning Machine Learning, Django
+- 👀 I’m interested in Python, Machine Learning (ML), Natural Language Processing (NLP)
+- 🌱 I’m currently learning Machine Learning, Django, Flask
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
